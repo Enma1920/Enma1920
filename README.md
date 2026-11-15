@@ -12,7 +12,7 @@
 
 I am a Junior programmer currently studying Computer Engineering.
 
-🔭 &nbsp;I'm currently working on **Not working but interested in any work that allows me to learn new knowledge**  
+🔭 &nbsp;I'm currently **not working but interested in any work that allows me to learn new knowledge**  
 🌱 &nbsp;I'm currently learning **Computer Egineering**  
 🤔 &nbsp;I'm looking for help with **Improve as a programmer and enhance my skills**
 
